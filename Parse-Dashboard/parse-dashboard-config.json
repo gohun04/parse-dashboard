@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "https://basketballshootout.herokuapp.com/",
+    "serverURL": "https://basketballshootout.herokuapp.com/parse",
     "appId": "epicmist.basketballShootOut",
     "masterKey": "king040493D",
     "appName": "basketballshootout",
