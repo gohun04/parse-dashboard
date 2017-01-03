@@ -1,10 +1,12 @@
-{
-  "apps": [{
+var trustProxy = true;
+var dashboard = new ParseDashboard({
+  "apps": [
+    {
     "serverURL": "http://basketballshootout.herokuapp.com/parse",
     "appId": "epicmist.basketballShootOut",
     "masterKey": "king040493D",
     "appName": "basketballshootout",
-    "iconName": ""
   }],
-  "iconsFolder": "icons"
+  "trustProxy": 1
+  
 }
