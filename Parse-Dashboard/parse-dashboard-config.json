@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://basketballshootout.herokuapp.com/",
+    "appId": "epicmist.basketballShootOut",
+    "masterKey": "king040493D",
+    "appName": "basketballshootout",
     "iconName": ""
   }],
   "iconsFolder": "icons"
